@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    background-size: cover;
+    height: 40vh;
+    width: 60vh;
+    margin: 1px;
+}
+
+.top-section-heading {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 35px;
+    padding: 15px;
+}
+
+.bottom-image {
+    height: 30vh;
+    width: 30vh;
+    padding: 20px;
+
+}
+
+.bottom-section-heading {
+    color: #151765;
+    font-size: 15px;
+    text-align: center;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.bottom-section-description {
+    color: #5a7184;
+    font-size: 15px;
+    text-align: center;
+    font-family: "Roboto";
+}
+
+.background-color {
+    background-color: #151765;
+    height: 30vh;
+    width: 80vh;
+
+}
+
+.new-section-heading {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 25px;
+    margin: 10px;
+}
+
+.new-section-description {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 12px;
+    margin: 10px;
+}
+
+.bottom-section2-heading {
+    font-family: "Roboto";
+    color: #151765;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 24px;
+    width: 40vh;
+}
+
+.bottom-section2-description {
+    font-family: "Roboto";
+    color: #5a7184;
+    font-size: 15px;
+    margin: 20px;
+    width: 40vh;
+}
+
+.bottom-section2-description2 {
+    font-family: "Roboto";
+    color: #151765;
+    font-size: 12px;
+    margin: 20px;
+    width: 40vh;
+}
+
+.bottom-section2-button {
+    font-family: "Roboto";
+    background-color: #151765;
+    color: #ffffff;
+    width: 90px;
+    height: 30px;
+    text-align: center;
+    border-radius: 10px;
+
+
+}
+
+.button-edit {
+    text-align: end;
+    padding: 10px;
+
+}
